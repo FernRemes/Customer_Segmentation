@@ -25,3 +25,4 @@ Updated the dataset to reflect the customers "Annual Income (k$)" and "Spending 
 
 # Results
 
+![Screenshot 2024-07-21 174939](https://github.com/user-attachments/assets/3bab3871-3934-407e-8e9e-a18bdb415bc5)
